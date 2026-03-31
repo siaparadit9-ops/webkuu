@@ -18,3 +18,14 @@ body{
 .jarak{
     padding:0 2pc;
 }
+
+.menu{
+    background-color:#f3f3f3;
+    height:50px;
+    line-height:50px;
+    position:relative;
+    width:90%;
+    margin:0 auto;
+    padding:0 auto;
+}
+    
